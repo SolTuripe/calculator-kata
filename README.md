@@ -9,7 +9,7 @@ Clone/fork this repo or create your own using spring initializr
 ## Test ✅
 
 <p align="center">
-<img src="" width=75%>
+<img src="./src/test.png" width=75%>
 </p>
 
 ## Rules 📋
