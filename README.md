@@ -1,15 +1,19 @@
 # Calculator kata 🔢
 
-The goal of this kata is to practice with data, operators and data structures using TDD. To practice java
+The goal of this kata is to practice with data, operators and data structures using TDD
+
+🚥 Test → Red → Green → Refactor 🔁
 
 ## Develop 📌
-
-Clone/fork this repo or create your own using spring initializr
-
+```
+Start a project at Spring Initializr
+Or clone/fork this repo
+Run the tests to see them pass!
+```
 ## Test ✅
 
 <p align="center">
-<img src="./src/test.png" width=75%>
+<img src="./src/test.png" width=83%>
 </p>
 
 ## Rules 📋
@@ -24,7 +28,8 @@ Clone/fork this repo or create your own using spring initializr
 - Make a function that when passing an array of numbers puts the result of the sum of all of them in the total
 - Make a function that when passing a list of integers List<int> returns another list that has only the numbers greater than or equal to 5
 
-## Tools 🧰
+## Tools & Tech Stack 🧰
   
 - [Spring Boot](https://spring.io/projects/spring-boot)  
-- [IntelliJ Idea](https://www.jetbrains.com/idea/) or any other IDE you like
+- [IntelliJ Idea](https://www.jetbrains.com/idea/) or any other ID E you like
+- JAVA
